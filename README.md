@@ -125,18 +125,18 @@ VPN
 
 ---
 
-## `$ docker ps`
+## `$ homelabctl status`
 
 ```text
-CONTAINER             STATUS          PURPOSE
+SERVICE              STATUS          PURPOSE
 
-proxmox               running         Virtualization
-home-assistant        running         Home Automation
-prometheus            running         Metrics
-grafana               running         Visualization
-loki                  running         Logs
-docker                 running         Containers
-k3s                    running         Kubernetes Lab
+Proxmox              running         Virtualization
+Home Assistant       running         Home Automation
+Docker               running         Container Runtime
+K3s                  running         Kubernetes Lab
+Prometheus            running         Metrics
+Grafana               running         Visualization
+Loki                  running         Logs
 ```
 
 ---
@@ -157,18 +157,11 @@ lispa    Infrastructure automation
 ## `$ github stats`
 
 <p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=lispa&show_icons=true&hide_border=true&theme=github_dark"
-  />
+  <img height="170" src="./profile/stats.svg" alt="GitHub Stats" />
+  <img height="170" src="./profile/top-langs.svg" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lispa&layout=compact&hide_border=true&theme=github_dark"
-  />
-</p>
+
 
 ---
 
