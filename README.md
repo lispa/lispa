@@ -1,5 +1,3 @@
-# GitHub Profile README — lispa
-
 <h1 align="center">Hi, I'm Dmitrii 👋</h1>
 
 <p align="center">
